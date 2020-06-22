@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <title>Готовый WEB-сайт </title>
+    <h3>Bloki Govno</h3>
 </head>
 <body>
 
